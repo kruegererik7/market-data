@@ -1,26 +1,26 @@
 group,ticker,name,as_of,ytd,3m,6m,3y_ann,5y_ann,10y_ann
-Sector,XLE,Energy,2026-10-09,49.1,19.94,15.52,17.5,22.47,10.76
-Sector,XLK,Technology,2026-10-09,38.32,7.18,40.0,33.73,22.06,24.89
-Sector,XLV,Health Care,2026-10-09,11.69,5.72,15.31,11.23,7.85,10.88
-Sector,XLB,Materials,2026-10-09,10.58,-1.04,-3.38,10.33,6.14,9.94
-Sector,XLI,Industrials,2026-10-09,9.91,-6.36,-1.26,19.88,12.55,13.28
-Sector,XLP,Consumer Staples,2026-10-09,9.37,0.85,1.24,10.66,6.32,7.62
-Sector,XLRE,Real Estate,2026-10-09,5.37,-5.35,-1.17,10.61,1.98,6.56
-Sector,XLF,Financials,2026-10-09,1.03,-1.23,7.25,20.1,8.83,12.85
-Sector,XLU,Utilities,2026-10-09,-1.15,-7.74,-11.12,16.07,8.2,9.17
-Sector,XLY,Consumer Discretionary,2026-10-09,-5.03,-3.34,0.38,12.85,5.18,12.09
-Sector,XLC,Communication Services,2026-10-09,-5.11,0.5,-2.55,19.22,7.59,
-Asset Class,DBC,Commodities,2026-10-09,47.27,19.4,14.7,15.49,12.48,9.88
-Asset Class,EEM,Emerging Markets,2026-10-09,22.33,-0.3,11.03,23.84,8.06,8.2
-Asset Class,SPY,US Large Cap,2026-10-09,14.97,3.74,14.99,23.11,13.69,15.53
-Asset Class,IWM,US Small Cap,2026-10-09,14.03,-5.95,6.97,18.32,6.01,9.91
-Asset Class,IJH,US Mid Cap,2026-10-09,12.02,-2.8,4.38,15.65,8.0,10.76
-Asset Class,EFA,Intl Developed,2026-10-09,9.09,-0.77,2.75,18.31,9.13,8.98
-Asset Class,VNQ,REITs,2026-10-09,5.15,-6.01,-0.78,10.65,1.34,5.07
-Asset Class,BIL,Cash (T-Bills),2026-10-09,2.8,0.94,1.83,4.46,3.68,2.31
-Asset Class,HYG,High Yield,2026-10-09,0.1,-1.75,-0.93,7.97,3.37,4.18
-Asset Class,BNDX,Intl Bonds (USD hedged),2026-10-09,-0.77,-1.5,-1.04,4.03,0.13,1.4
-Asset Class,TIP,TIPS,2026-10-09,-1.77,-2.74,-2.7,3.81,-0.2,2.06
-Asset Class,AGG,US Aggregate Bond,2026-10-09,-2.4,-2.66,-2.97,4.23,-0.45,1.22
-Asset Class,GLD,Gold,2026-10-09,-3.03,1.62,-12.24,30.53,18.53,12.37
-Asset Class,TLT,Long Treasury (20+ yr),2026-10-09,-7.53,-6.72,-8.07,0.66,-8.07,-2.52
+Sector,XLE,Energy,2026-10-09,48.45,19.42,15.02,17.33,22.36,10.71
+Sector,XLK,Technology,2026-10-09,38.57,7.37,40.25,33.81,22.11,24.91
+Sector,XLV,Health Care,2026-10-09,11.71,5.73,15.33,11.24,7.86,10.88
+Sector,XLB,Materials,2026-10-09,10.4,-1.2,-3.54,10.27,6.11,9.92
+Sector,XLI,Industrials,2026-10-09,9.98,-6.3,-1.2,19.91,12.56,13.29
+Sector,XLP,Consumer Staples,2026-10-09,9.47,0.94,1.33,10.69,6.34,7.63
+Sector,XLRE,Real Estate,2026-10-09,5.61,-5.13,-0.94,10.69,2.02,6.58
+Sector,XLF,Financials,2026-10-09,1.15,-1.11,7.38,20.15,8.85,12.86
+Sector,XLU,Utilities,2026-10-09,-0.97,-7.57,-10.96,16.14,8.24,9.19
+Sector,XLY,Consumer Discretionary,2026-10-09,-4.91,-3.21,0.52,12.9,5.2,12.11
+Sector,XLC,Communication Services,2026-10-09,-5.38,0.21,-2.83,19.1,7.52,
+Asset Class,DBC,Commodities,2026-10-09,47.41,19.51,14.8,15.53,12.5,9.89
+Asset Class,EEM,Emerging Markets,2026-10-09,22.73,0.03,11.39,23.98,8.13,8.24
+Asset Class,SPY,US Large Cap,2026-10-09,15.06,3.83,15.09,23.15,13.71,15.54
+Asset Class,IWM,US Small Cap,2026-10-09,14.09,-5.91,7.01,18.34,6.01,9.91
+Asset Class,IJH,US Mid Cap,2026-10-09,12.14,-2.7,4.48,15.69,8.02,10.77
+Asset Class,EFA,Intl Developed,2026-10-09,9.38,-0.5,3.03,18.41,9.19,9.01
+Asset Class,VNQ,REITs,2026-10-09,5.35,-5.82,-0.58,10.72,1.38,5.09
+Asset Class,BIL,Cash (T-Bills),2026-10-09,2.81,0.95,1.84,4.46,3.69,2.31
+Asset Class,HYG,High Yield,2026-10-09,0.13,-1.72,-0.9,7.98,3.38,4.18
+Asset Class,BNDX,Intl Bonds (USD hedged),2026-10-09,-0.69,-1.43,-0.96,4.06,0.14,1.41
+Asset Class,TIP,TIPS,2026-10-09,-1.75,-2.71,-2.68,3.82,-0.19,2.06
+Asset Class,AGG,US Aggregate Bond,2026-10-09,-2.38,-2.64,-2.95,4.24,-0.45,1.22
+Asset Class,GLD,Gold,2026-10-09,-2.96,1.69,-12.18,30.56,18.55,12.38
+Asset Class,TLT,Long Treasury (20+ yr),2026-10-09,-7.41,-6.6,-7.95,0.7,-8.05,-2.5
